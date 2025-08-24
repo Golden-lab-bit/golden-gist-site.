@@ -72,7 +72,7 @@
 
     <section>
       <p>
-        Visit 
+        Click here to visit👉
         <a href="https://wa.me/2347066904894?text=HI%20Golden%20i%20appreciate%20your%20web%20nice%20to%20meet%20you" target="_blank">
           Golden
         </a> 
