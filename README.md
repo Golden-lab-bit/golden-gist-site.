@@ -1,4 +1,4 @@
-# golden-gist-site.github.io
+# golden-gist-site.
 <!DOCTYPE html>
 <html lang="en">
 <head>
