@@ -1,7 +1,8 @@
 # golden-gist-site.
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> 
+  <meta name="google-site-verification" content="-Cn8Cjltx9IIsHhWY4BSKBOO0iX9GxgpC4QvMmXhfX0" />
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Golden Web</title>
