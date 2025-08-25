@@ -3,8 +3,9 @@
   <meta name="google-site-verification" content="-Cn8Cjltx9IIsHhWY4BSKBOO0iX9GxgpC4QvMmXhfX0" />
 <head> 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"><style>
-    body { margin: 0; font-family: Arial; }
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>   
+   body { margin: 0; font-family: Arial; }
 
     .navbar {
       display: flex;
@@ -84,6 +85,12 @@
       padding-left: 20px;
     }
   </style>
+  <style><div class="navbar">
+    <div class="menu-icon">&#9776;</div> <!-- Hamburger menu -->
+    <a href="#">Labarun wasanni</a>
+    <a href="#">Kai tsaye(live)</a>
+    <a href="#">fixtures</a>
+  </div></style>
 </head>
 <body>
   <header>
