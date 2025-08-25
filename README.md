@@ -1,10 +1,35 @@
-# golden-gist-site.
 <!DOCTYPE html>
 <html lang="en">
   <meta name="google-site-verification" content="-Cn8Cjltx9IIsHhWY4BSKBOO0iX9GxgpC4QvMmXhfX0" />
 <head> 
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><style>
+    body { margin: 0; font-family: Arial; }
+
+    .navbar {
+      display: flex;
+      background-color: #FFFFFF;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+
+    .navbar a {
+      display: inline-block;
+      color: black;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+
+    .navbar a:hover {
+      background-color: #ddd;
+    }
+
+    .menu-icon {
+      padding: 14px 20px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+  </style>
   <title>Golden Web</title>
   <style>
     body {
@@ -94,4 +119,4 @@
     <p>Godiya ta musamman gare ku baki daya</p>
   </footer>
 </body>
-</html>
+</ht
